@@ -1,0 +1,1 @@
+greetings = print('Hello World')
